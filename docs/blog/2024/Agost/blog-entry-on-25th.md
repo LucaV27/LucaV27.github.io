@@ -20,8 +20,8 @@ Below is an interactive map of all the places I've visited.
 
     // Add markers for places you've visited
     var places = [
-        { lat: 48.8566, lon: 2.3522, name: 'Paris, France' },
-        { lat: 40.7128, lon: -74.0060, name: 'New York, USA' },
+        { lat: 48.8566, lon: 2.3522, name: 'Paris, <br> France' },
+        // { lat: 40.7128, lon: -74.0060, name: 'New York, USA' },
         { lat: 35.6895, lon: 139.6917, name: 'Tokyo, Japan' }
     ];
 

@@ -1,8 +1,8 @@
 site_name: Luca Vettori
 theme:
   name: material
-  favicon: images/favicon.png
-  logo: images/favicon.png
+  favicon: images/favicon2.png
+  logo: images/favicon2.png
   features:
     - navigation.tabs
   palette:
@@ -29,5 +29,5 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-copyright: Copyright © 2024 Luca Vettori
+copyright: Copyright © 2025 Luca Vettori
 
