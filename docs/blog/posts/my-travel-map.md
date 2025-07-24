@@ -1,3 +1,12 @@
+---
+title: My Travel Map
+date: 2024-08-25
+slug: my-travel-map
+description: >
+  My Travel Map
+categories:
+  - Maps
+---
 # My Travel Map
 
 Below is an interactive map of all the places I've visited.
