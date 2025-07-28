@@ -17,7 +17,4 @@ And then have a look in the browser at the [page](http://localhost:8000).
 
 ## Deploy with GitHub pages
 
-Just run the command:
-````bash
-mkdocs gh-deploy
-````
+Just follow this [guide](https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-mkdocs).
