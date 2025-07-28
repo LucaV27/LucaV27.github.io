@@ -1,6 +1,6 @@
 # Contact
 
-Feel free to contact me to my LinkedIn page or reach me at:
+Feel free to contact me on my LinkedIn page or reach me at:
 
 *[luca.vettori@cttc.es](mailto:luca.vettori@cttc.es)*
 

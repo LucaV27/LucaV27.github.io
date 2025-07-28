@@ -13,4 +13,4 @@ Throughout his professional career, he has worked in both industry and research 
 
 ## Resume
 
-<a href="/resources/Luca-Vettori-MSc-20250723.pdf" target="_blank">View my resume</a>
+<a href="/resources/Luca-Vettori-MSc-20250725.pdf" target="_blank">View my resume</a>
