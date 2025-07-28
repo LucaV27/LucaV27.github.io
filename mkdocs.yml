@@ -34,8 +34,9 @@ plugins:
   - blog
 nav:
   - Home: index.md
-#  - Publications:
-#    - publications/index.md
+  - Publications:
+    - publications/index_journals.md
+    - publications/index_conferences.md
   - Blog:
     - blog/index.md
   - Contact: contact.md

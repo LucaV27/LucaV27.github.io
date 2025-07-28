@@ -75,19 +75,19 @@ Which is the greener??
 
 <div class="photo-grid-2025">
     <div class="photo-item">
-        <img src="../images/bcn_alberi2.jpg" alt="Trees in BCN">
+        <img src="../../images/mapnik_maps_post/bcn_alberi2.jpg" alt="Trees in BCN">
         <div class="photo-caption">Trees in BCN</div>
     </div>
     <div class="photo-item">
-        <img src="../images/bcn_bici.jpeg" alt="Bike Roads in BCN">
+        <img src="../../images/mapnik_maps_post/bcn_bici.jpeg" alt="Bike Roads in BCN">
         <div class="photo-caption">Bike Roads in BCN</div>
     </div>
     <div class="photo-item">
-        <img src="../images/firenze_alberi_2.jpeg" alt="Trees in Florence">
+        <img src="../../images/mapnik_maps_post/firenze_alberi_2.jpeg" alt="Trees in Florence">
         <div class="photo-caption">Trees in Florence</div>
     </div>
     <div class="photo-item">
-        <img src="../images/firenze_bici.jpeg" alt="Bike Roads in Florence">
+        <img src="../../images/mapnik_maps_post/firenze_bici.jpeg" alt="Bike Roads in Florence">
         <div class="photo-caption">Bike Roads in Florence</div>
     </div>
 </div>
