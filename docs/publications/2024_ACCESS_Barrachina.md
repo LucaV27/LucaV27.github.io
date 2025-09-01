@@ -1,7 +1,7 @@
 # Empowering Beyond 5G Networks: An Experimental Assessment of Zero-Touch Management and Orchestration
 
-**Authors:** S. Barrachina-Muñoz, F. Rezazadeh, L. Blanco, S. Kukliński, E. Zeydan, A. Chawla, L. Zanzi, F. Devoti, V. Vlahodimitropoulou, I. Chochliouros, A. Bosneag, S. Cherrared, **L. Vettori**, and J. Mangues-Bafalluy  
-**Journal:** IEEE Access, vol. 12, pp. 182752-182762, 2024  
+**Authors:** S. Barrachina-Muñoz, F. Rezazadeh, L. Blanco, S. Kukliński, E. Zeydan, A. Chawla, L. Zanzi, F. Devoti, V. Vlahodimitropoulou, I. Chochliouros, A. Bosneag, S. Cherrared, **L. Vettori**, and J. Mangues-Bafalluy.  
+**Journal:** IEEE Access, vol. 12, pp. 182752-182762, 2024.  
 **DOI:** [10.1109/ACCESS.2024.3510804](https://doi.org/10.1109/ACCESS.2024.3510804)
 
 ## Abstract

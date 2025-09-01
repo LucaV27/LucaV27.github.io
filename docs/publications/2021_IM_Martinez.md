@@ -1,0 +1,12 @@
+# Experimental Validation of Compute and Network Resource Abstraction and Allocation Mechanisms within an NFV Infrastructure
+
+
+
+**Authors:** R. Martínez, _**L. Vettori**_, J. Baranda, J. Mangues and E. Zeydan.  
+**Conference:** 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM), Bordeaux, France, 2021.  
+
+## Abstract
+
+5G supported capabilities (e.g., slicing) enable accommodating heterogeneous vertical services having their own requirements over a common cloud and transport infrastructure. In this context, the EU-H2020 5Growth project defines a service and infrastructure orchestration architecture to automatically deploy network services (NSes) fulfilling vertical demands. In this architecture, the Service Orchestrator (5Gr-SO), as a service provider, maps the vertical service needs into NS requirements (e.g., CPU, RAM, bandwidth, etc.). The 5Gr-SO interacts with an underlying infrastructure orchestrator referred to as 5Gr-RL. The 5Gr-RL, as an infrastructure provider, handles two main functions: i) abstraction of the resources exposed to the 5GrSO, and ii) fine-grained resource selection. Different interaction forms between both 5Gr-SO and 5Gr-RL arise differing in the exchanged abstracted information and resource allocation. We present two 5Gr-SO and 5Gr-RL interaction solutions stemming from two 5Gr-RL operational modes: Infrastructure Abstraction (InA) and Connectivity Service Abstraction (CSA). In the InA approach, the 5Gr-SO is granted with an aggregated view of the computing resources and a set of transport logical links between the cloud locations. In the CSA strategy, besides the aggregated view of the cloud resources, the logical links are associated to potential connectivity service types. Both InA and CSA strategies are presented describing their pros and cons. Moreover, the designed workflows (involving the devised abstraction and allocation algorithms) between the 5Gr-SO and 5Gr-RL entities are experimentally validated. Scalability studies are conducted upon two different cloud and transport infrastructure sizes in terms of the abstraction composition time, the expansion computation time, and total NS deployment time.
+
+[⬅ Back to Publications](index_conferences.md)

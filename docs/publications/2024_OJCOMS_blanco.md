@@ -1,0 +1,11 @@
+# A Novel Approach for Scalable and Sustainable 6G Networks
+
+**Authors:** L. Blanco, E. Zeydan, S. Barrachina-Muñoz, F. Rezazadeh, _**L. Vettori**_ and J. Mangues-Bafalluy.    
+**Journal:** IEEE Open Journal of the Communications Society, vol. 5, pp. 1673-1692, 2024.  
+**DOI:** [10.1109/OJCOMS.2024.3372426](https://doi.org/10.1109/OJCOMS.2024.3372426)
+
+## Abstract
+
+Hierarchical, distributed, scalable and Artificial Intelligence (AI)-based management of a massive number of network slices in different domains with the goal of zero-touch management is a major challenge for 6G networks. In this paper, we first propose a new vision for distributed network management and orchestration based on existing standardization architectures. This vision aims to embed AI/Machine Learning (ML) into the AI/ML architectures of Standardization Development Organizations (SDOs) such as the 3rd Generation Partnership Project (3GPP), the European Telecommunications Standards Institute (ETSI) and the International Telecommunication Union (ITU). Our second contribution is a numerical comparison of the benefits of the proposed distributed management and orchestration approach in terms of energy savings through Federated Learning (FL). The experimental topology includes a sophisticated infrastructure with VR streaming clients and servers, a monitoring system (MS), core network elements, aggregation server for federated learning (FL) and analytics engines (AEs). The deployment uses Kubernetes (K8s) and a top orchestrator that works together with an AI/ML model tailored to the envisioned use case. Experimental studies emulating the demanding Virtual Reality (VR) video streaming have demonstrated the effectiveness of the MonB5G framework in optimizing resource management, reducing overhead and improving energy efficiency. In particular, when convergence is achieved, the monitoring overhead is reduced by more than 11 times compared to the centralised SLA-constrained algorithm, along with data-driven management systems. This led to a more than 10-fold improvement in energy efficiency. At the end of the paper, we also discuss experimental results, VR video streaming specific challenges, scalability considerations and lessons learned throughout the implementation.
+
+[⬅ Back to Publications](index_journals.md)

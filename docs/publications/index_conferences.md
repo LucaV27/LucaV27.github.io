@@ -1,7 +1,30 @@
 # International Conferences (Proceedings)
 
-Here are some selected works:
+Here are the complete list of works:
 
-🎓 [A Very Awesome Paper (2023)](ieee-access-barrachina.md)
-
-🎓 [A Very Awesome Paper (2023)](ieee-access-barrachina.md)
+- [Automated Service Adaptation across Optical Access and Metro Segments via Hierarchical SDN Control (2025)](2025_ICTON_DemoVettori.md)
+- [6G Monitoring Agents in Autonomous Disaggregated Optical Transport Network (2025)](2025_ICTON_VettoriTelcaria.md)
+- [Addressing Capacity Scaling and Programmability in Future Optical Networks (2025)](2025_ONDM25_Nadal.md)
+- [Autonomous SDN-Driven Operations in Disaggregated Open Optical Transport Network with Coherent Pluggable Transceivers: A Demonstration (2025)](2025_OFC_DemoVettori.md)
+- [An AI/ML Proactive Network Service Relocation Approach for Multi-Admin Domain Scenarios (2024)](2024_NOMS_DemoBaranda.md)
+- [A Marketplace Solution for Distributed Network Management and Orchestration of Slices (2023)](2023_AnServApp_Zeydan.md)
+- [Multi-Administrative Domain Service Onboarding in a ZSM-Based Orchestration Architecture (2023)](2023_SECON_Baranda.md)
+- [Cloud Native Federated Learning for Streaming: An Experimental Demonstrator (2023)](2023_HPSR_Barrachina.md)
+- [ZSM-based Orchestration for Inter-Administrative Domain Cross-Border Vehicular Scenarios (2022)](2022_SECON_Baranda.md)
+- [Demo: Automated Multi-Site E2E Orchestration of Hybrid Network Services Mixing PNF, VNF and CNFs (2022)](2022_ISCC_PosterBaranda.md)
+- [Enabling the SLA Management of Federated Network Services Through Scaling Operations (2022)](2022_ISCC_Baranda.md)
+- [Efficient Restoration of Simultaneous Transport Services within an NFV Infrastructure (2021)](2021_Globecom_Martinez.md)
+- [Deploying Hybrid Network Services: Mixing VNFs and CNFs in Multi-site Infrastructures (2021)](2021_SECON_DemoBaranda.md) &rarr; _**Awarded as Best Demonstration Paper**_
+- [Log Management in NFV Service Orchestration (2021)](2021_SECON_Zeydan.md)
+- [Experimental Validation of Compute and Network Resource Abstraction and Allocation Mechanisms within an NFV Infrastructure (2021)](2021_IM_Martinez.md)
+- [Scaling Federated Network Services: Managing SLAs in Multi-Provider Industry 4.0 Scenarios (2021)](2021_INFOCOM_Baranda.md)
+- [On the Integration of AI/ML-based scaling operations in the 5Growth platform (2020)](2020_NFV-SDN_Baranda.md) &rarr; _**Awarded as Best Fast Track Paper**_
+- [Demo: Scaling Composite NFV-Network Services (2020)](2020_Mobihoc_Baranda.md)
+- [Arbitrating Network Services in 5G Networks for Automotive Vertical Industry (2020)](2020_INFOCOM_Baranda.md)
+- [NFV Service Federation: enabling Multi-Provider eHealth Emergency Services (2020)](2020_INFOCOM_Baranda_2.md)
+- [5G-TRANSFORMER meets Network Service Federation: design, implementation and evaluation (2020)](2020_NetSoft_Baranda.md)
+- [5G-TRANSFORMER Service Orchestrator: Design Implementation and Evaluation (2019)](2019_EuCNC_Mangues.md)
+- [Feasibility study of a SDR-based reconfigurable terminal for emergency applications (2011)](2011_Aerospace_Panizza.md)
+- [Software Defined Radio Assisted Localization for Emergency Scenarios (2010)](2010_PSATS_DelRe.md)
+- [Software Defined Radio Terminal for assisted localization in Emergency Situations (2009)](2009_WIRELESSVITAE_DelRe.md)
+- [Advanced receiver and MIMO schemes for LTE communications system (2009)](2009_WIRELESSVITAE_Morosi.md)
