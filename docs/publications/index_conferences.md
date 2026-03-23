@@ -2,6 +2,7 @@
 
 Here are the complete list of works:
 
+- [Autonomous Capacity Scaling in Optical Metro Access Networks via Hierarchical SDN Control: A Demonstration (2026)](2026_OFC_DemoVettori.md)
 - [Automated Service Adaptation across Optical Access and Metro Segments via Hierarchical SDN Control (2025)](2025_ICTON_DemoVettori.md)
 - [6G Monitoring Agents in Autonomous Disaggregated Optical Transport Network (2025)](2025_ICTON_VettoriTelcaria.md)
 - [Addressing Capacity Scaling and Programmability in Future Optical Networks (2025)](2025_ONDM25_Nadal.md)
