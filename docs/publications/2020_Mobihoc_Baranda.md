@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, J. Mangues, _**L. Vettori**_, R. Martínez.  
 **Conference:** 21st ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (Mobihoc ‘20), 11-14 October 2020, Boston, MA, USA. Poster Session   
-**DOI:** [10.1145/3397166.3415277](https://doi.org/10.1145/3397166.3415277)
+**DOI:** <a href="https://doi.org/10.1145/3397166.3415277" target="_blank" rel="noopener noreferrer">10.1145/3397166.3415277</a>
 
 ## Abstract
 

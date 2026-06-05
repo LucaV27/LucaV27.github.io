@@ -3,7 +3,7 @@
 
 **Authors:** J. Mangues, J. Baranda, I. Pascual, R. Martínez, _**L. Vettori**_, G. Landi, A. Zurita, D. Salama, K. Antevski, J. Martín-Pérez, D. Andrushko, K. Tomakh, B. Martini, X. Li, J. X. Salvat.  
 **Conference:** 2019 European Conference on Networks and Communications (EuCNC), Valencia, Spain, 2019.  
-**DOI:** [10.1109/EuCNC.2019.8802038](https://doi.org/10.1109/EuCNC.2019.8802038)
+**DOI:** <a href="https://doi.org/10.1109/EuCNC.2019.8802038" target="_blank" rel="noopener noreferrer">10.1109/EuCNC.2019.8802038</a>
 
 ## Abstract
 

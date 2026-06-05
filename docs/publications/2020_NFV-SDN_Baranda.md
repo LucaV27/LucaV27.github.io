@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, J. Mangues, E. Zeydan, _**L. Vettori**_, R. Martínez, X. Li, A. Garcia-Saavedra, C. Fabiana Chiasserini, C. Casetti, K. Tomakh, O. Kolodiazhnyi, C. Jesus Bernardos.  
 **Conference:** IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Leganes, Spain, 2020.  
-**DOI:** [10.1109/NFV-SDN50289.2020.9289863](https://doi.org/10.1109/NFV-SDN50289.2020.9289863)
+**DOI:** <a href="https://doi.org/10.1109/NFV-SDN50289.2020.9289863" target="_blank" rel="noopener noreferrer">10.1109/NFV-SDN50289.2020.9289863</a>
 
 ## Abstract
 

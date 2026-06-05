@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, A. Galal, _**L. Vettori**_, A. Mpatziakas, A. Gentili, A. Sinanis, A. Yastrebova-Castillo, G. Gómez, S. Karageorgiou, A. Drosou, J. Scholliers, M. Payaró, J. Mangues-Bafalluy.  
 **Conference:** 2024 IEEE Network Operations and Management Symposium, Seoul, Korea, Republic of, 2024.  
-**DOI:** [10.1109/NOMS59830.2024.10575207](https://doi.org/10.1109/NOMS59830.2024.10575207)
+**DOI:** <a href="https://doi.org/10.1109/NOMS59830.2024.10575207" target="_blank" rel="noopener noreferrer">10.1109/NOMS59830.2024.10575207</a>
 
 ## Abstract
 

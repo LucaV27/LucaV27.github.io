@@ -2,7 +2,7 @@
 
 **Authors:** M. Panizza, C. Sacchi, J. Varela-Miguez, S. Morosi, _**L. Vettori**_, S. Digenti, E. Falletti.  
 **Conference:** 2011 Aerospace Conference, Big Sky, MT, USA, 2011.  
-**DOI:** [10.1109/AERO.2011.5747346](https://doi.org/10.1109/AERO.2011.5747346)
+**DOI:** <a href="https://doi.org/10.1109/AERO.2011.5747346" target="_blank" rel="noopener noreferrer">10.1109/AERO.2011.5747346</a>
 
 ## Abstract
 

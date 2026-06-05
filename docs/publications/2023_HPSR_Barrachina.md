@@ -3,7 +3,7 @@
 
 **Authors:** S. Barrachina-Muñoz, E. Zeydan, L. Blanco, _**L. Vettori**_, F. Rezazadeh, J. Mangues-Bafalluy.  
 **Conference:** 2023 IEEE 24th International Conference on High Performance Switching and Routing (HPSR), Albuquerque, NM, USA, 2023.  
-**DOI:** [10.1109/HPSR57248.2023.10147920](https://doi.org/10.1109/HPSR57248.2023.10147920)
+**DOI:** <a href="https://doi.org/10.1109/HPSR57248.2023.10147920" target="_blank" rel="noopener noreferrer">10.1109/HPSR57248.2023.10147920</a>
 
 
 ## Abstract

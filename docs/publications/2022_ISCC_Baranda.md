@@ -2,7 +2,7 @@
 
 **Authors:** J. Baranda, J. Mangues-Bafalluy, _**L. Vettori**_, R. Martinez, E. Zeydan.  
 **Conference:** 2022 IEEE Symposium on Computers and Communications (ISCC), Rhodes, Greece, 2022.  
-**DOI:** [10.1109/ISCC55528.2022.9912996](https://doi.org/10.1109/ISCC55528.2022.9912996)
+**DOI:** <a href="https://doi.org/10.1109/ISCC55528.2022.9912996" target="_blank" rel="noopener noreferrer">10.1109/ISCC55528.2022.9912996</a>
 
 ## Abstract
 

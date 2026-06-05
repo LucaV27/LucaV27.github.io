@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, J. Mangues, R. Martínez, _**L. Vettori**_, K. Antevski, C. J. Bernardos, X. Li.  
 **Journal:** IEEE Vehicular Technology Magazine, vol. 15, no. 2, pp. 48-57, June 2020.  
-**DOI:** [10.1109/MVT.2020.2979558](https://doi.org/10.1109/MVT.2020.2979558)
+**DOI:** <a href="https://doi.org/10.1109/MVT.2020.2979558" target="_blank" rel="noopener noreferrer">10.1109/MVT.2020.2979558</a>
 
 ## Abstract
 

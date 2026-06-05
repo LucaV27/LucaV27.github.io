@@ -2,7 +2,7 @@
 
 **Authors:** E. Del Re, L. S. Ronga, _**L. Vettori**_, L. Lo Presti, E. Falletti, M. Pini.  
 **Conference:** 2009 1st International Conference on Wireless Communication, Vehicular Technology, Information Theory and Aerospace & Electronic Systems Technology, Aalborg, Denmark, 2009.  
-**DOI:** [10.1109/WIRELESSVITAE.2009.5172506](https://doi.org/10.1109/WIRELESSVITAE.2009.5172506)
+**DOI:** <a href="https://doi.org/10.1109/WIRELESSVITAE.2009.5172506" target="_blank" rel="noopener noreferrer">10.1109/WIRELESSVITAE.2009.5172506</a>
 
 ## Abstract
 

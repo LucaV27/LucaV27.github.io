@@ -3,7 +3,7 @@
 
 **Authors:** R. Martínez, _**L. Vettori**_, J. Baranda, J. Mangues, E. Zeydan.  
 **Conference:** 2021 IEEE Global Communications Conference (GLOBECOM), Madrid, Spain, 2021.  
-**DOI:** [10.1109/GLOBECOM46510.2021.9685511](https://doi.org/10.1109/GLOBECOM46510.2021.9685511)
+**DOI:** <a href="https://doi.org/10.1109/GLOBECOM46510.2021.9685511" target="_blank" rel="noopener noreferrer">10.1109/GLOBECOM46510.2021.9685511</a>
 
 ## Abstract
 

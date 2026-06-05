@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, J. Mangues, _**L. Vettori**_, R. Martínez, E. Zeydan.  
 **Conference:** 18th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), Rome, Italy, 2021.  
-**DOI:** [10.1109/SECON52354.2021.9491619](https://doi.org/10.1109/SECON52354.2021.9491619)
+**DOI:** <a href="https://doi.org/10.1109/SECON52354.2021.9491619" target="_blank" rel="noopener noreferrer">10.1109/SECON52354.2021.9491619</a>    
 
 ## Abstract
 

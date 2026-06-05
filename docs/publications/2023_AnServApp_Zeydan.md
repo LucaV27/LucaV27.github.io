@@ -3,7 +3,7 @@
 
 **Authors:** E. Zeydan, L. Blanco, S. Barrachina-Muñoz, F. Rezazadeh, _**L. Vettori**_, J. Mangues-Bafalluy.  
 **Conference:** 2023 19th International Conference on Network and Service Management (CNSM), Niagara Falls, ON, Canada, 2023.  
-**DOI:** [10.23919/CNSM59352.2023.10327832](https://doi.org/10.23919/CNSM59352.2023.10327832)
+**DOI:** <a href="https://doi.org/10.23919/CNSM59352.2023.10327832" target="_blank" rel="noopener noreferrer">10.23919/CNSM59352.2023.10327832</a>
 
 ## Abstract
 

@@ -2,7 +2,7 @@
 
 **Authors:** E. Del Re, L. S. Ronga, _**L. Vettori**_, S. Morosi, L. Lo Presti, E. Falletti, M. Pini.  
 **Conference:** PSATS 2010. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering.  
-**DOI:** [10.1007/978-3-642-13618-4_32](https://doi.org/10.1007/978-3-642-13618-4_32)
+**DOI:** <a href="https://doi.org/10.1007/978-3-642-13618-4_32" target="_blank" rel="noopener noreferrer">10.1007/978-3-642-13618-4_32</a>
 
 ## Abstract
 

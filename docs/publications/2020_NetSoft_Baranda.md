@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, J. Mangues, R. Martínez, _**L. Vettori**_, K. Antevski, C. J. Bernardos, X. Li.  
 **Conference:** 2020 6th IEEE Conference on Network Softwarization (NetSoft), Ghent, Belgium, 2020.  
-**DOI:** [10.1109/NetSoft48620.2020.9165473](https://doi.org/10.1109/NetSoft48620.2020.9165473)
+**DOI:** <a href="https://doi.org/10.1109/NetSoft48620.2020.9165473" target="_blank" rel="noopener noreferrer">10.1109/NetSoft48620.2020.9165473</a>
 
 ## Abstract
 

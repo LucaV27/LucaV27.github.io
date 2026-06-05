@@ -3,7 +3,7 @@
 
 **Authors:** _**L. Vettori**_, R. Martínez, R. Casellas, F. J. Vílchez, J. M. Fàbrega, R. Muñoz, R. Vilalta.  
 **Conference:** International Conference on Transparent Optical Networks (ICTON2025) – Demo session, July 2025.  
-
+**DOI:** <a href="https://doi.org/10.1109/ICTON67126.2025.11125158" target="_blank" rel="noopener noreferrer">10.1109/ICTON67126.2025.11125158</a>
 
 ## Abstract
 

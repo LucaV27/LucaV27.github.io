@@ -3,7 +3,7 @@
 
 **Authors:** _**L. Vettori**_, F. J. Vílchez, C. Hernández-Chulde, C. A. Kyriakopoulos, J. M. Fàbrega, R. Casellas, and R. Martínez.  
 **Conference:** 2025 Optical Fiber Communications Conference and Exhibition (OFC), San Francisco, CA, USA, 2025, pp. 1-3.  
-
+**DOI:** <a href="https://doi.org/10.1364/OFC.2025.M3Z.13" target="_blank" rel="noopener noreferrer">10.1364/OFC.2025.M3Z.13</a>
 
 ## Abstract
 

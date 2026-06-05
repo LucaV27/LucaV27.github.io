@@ -2,7 +2,7 @@
 
 **Authors:** L. Blanco, E. Zeydan, S. Barrachina-Muñoz, F. Rezazadeh, _**L. Vettori**_ and J. Mangues-Bafalluy.    
 **Journal:** IEEE Open Journal of the Communications Society, vol. 5, pp. 1673-1692, 2024.  
-**DOI:** [10.1109/OJCOMS.2024.3372426](https://doi.org/10.1109/OJCOMS.2024.3372426)
+**DOI:** <a href="https://doi.org/10.1109/OJCOMS.2024.3372426" target="_blank" rel="noopener noreferrer">10.1109/OJCOMS.2024.3372426</a>
 
 ## Abstract
 

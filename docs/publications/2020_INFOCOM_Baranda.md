@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, J. Mangues, E. Zeydan, _**L. Vettori**_, R. Martínez, X. Li, A. Garcia-Saavedra, C. Fabiana Chiasserini, C. Casetti, K. Tomakh, O. Kolodiazhnyi, C. Jesus Bernardos.  
 **Conference:** IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Toronto, ON, Canada, 2020.  
-**DOI:** [10.1109/INFOCOMWKSHPS50562.2020.9162679](https://doi.org/10.1109/INFOCOMWKSHPS50562.2020.9162679)
+**DOI:** <a href="https://doi.org/10.1109/INFOCOMWKSHPS50562.2020.9162679" target="_blank" rel="noopener noreferrer">10.1109/INFOCOMWKSHPS50562.2020.9162679</a>
 
 ## Abstract
 

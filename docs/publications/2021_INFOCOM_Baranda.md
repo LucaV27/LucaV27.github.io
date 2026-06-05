@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, J. Mangues, _**L. Vettori**_, R. Martínez, E. Zeydan.  
 **Conference:** IEEE INFOCOM 2021 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Vancouver, BC, Canada, 2021.  
-**DOI:** [10.1109/INFOCOMWKSHPS51825.2021.9484476](https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484476)
+**DOI:** <a href="https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484476" target="_blank" rel="noopener noreferrer">10.1109/INFOCOMWKSHPS51825.2021.9484476</a>
 
 ## Abstract
 

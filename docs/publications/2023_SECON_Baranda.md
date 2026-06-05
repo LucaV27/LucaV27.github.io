@@ -3,7 +3,7 @@
 
 **Authors:** J. Baranda, _**L. Vettori**_, M. Payaró, J. Mangues-Bafalluy, G. Gomez, S. Karageorgiou.  
 **Conference:** 2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), Madrid, Spain, 2023.  
-**DOI:** [10.1109/SECON58729.2023.10287456](https://doi.org/10.1109/SECON58729.2023.10287456)
+**DOI:** <a href="https://doi.org/10.1109/SECON58729.2023.10287456" target="_blank" rel="noopener noreferrer">10.1109/SECON58729.2023.10287456</a>
 
 
 ## Abstract

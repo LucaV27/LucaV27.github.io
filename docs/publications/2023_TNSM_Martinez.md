@@ -2,7 +2,7 @@
 
 **Authors:** R. Martínez, _**L. Vettori**_, J. Baranda, J. Mangues-Bafalluy, E. Zeydan and B. Bakhshi.  
 **Journal:** IEEE Transactions on Network and Service Management, vol. 20, no. 1, pp. 608-624, March 2023.  
-**DOI:** [10.1109/TNSM.2022.3214381](https://doi.org/10.1109/TNSM.2022.3214381)
+**DOI:** <a href="https://doi.org/10.1109/TNSM.2022.3214381" target="_blank" rel="noopener noreferrer">10.1109/TNSM.2022.3214381</a>
 
 ## Abstract
 

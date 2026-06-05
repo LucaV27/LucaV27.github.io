@@ -3,7 +3,7 @@
 
 **Authors:** E. Zeydan, J. Mangues, J. Baranda, R. Martínez, _**L. Vettori**_.  
 **Journal:** Springer Journal of Network and Systems Management, Vol. 30, No. 32, pp. 1-36, January 2022.  
-**DOI:** [10.1007/s10922-022-09645-9](https://doi.org/10.1007/s10922-022-09645-9)
+**DOI:** <a href="https://doi.org/10.1007/s10922-022-09645-9" target="_blank" rel="noopener noreferrer">10.1007/s10922-022-09645-9</a>
 
 ## Abstract
 

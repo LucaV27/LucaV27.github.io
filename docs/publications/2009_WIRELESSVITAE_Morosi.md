@@ -2,7 +2,7 @@
 
 **Authors:** S. Morosi, E. Del Re and _**L. Vettori**_.  
 **Conference:** 2009 1st International Conference on Wireless Communication, Vehicular Technology, Information Theory and Aerospace & Electronic Systems Technology, Aalborg, Denmark, 2009.  
-**DOI:** [10.1109/WIRELESSVITAE.2009.5172453](https://doi.org/10.1109/WIRELESSVITAE.2009.5172453)
+**DOI:** <a href="https://doi.org/10.1109/WIRELESSVITAE.2009.5172453" target="_blank" rel="noopener noreferrer">10.1109/WIRELESSVITAE.2009.5172453</a>
 
 ## Abstract
 

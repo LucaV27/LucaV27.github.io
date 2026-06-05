@@ -3,7 +3,7 @@
 
 **Authors:** L. Nadal, _**L. Vettori**_, J. M. Fàbrega, M. Svaluto, F. J. Vílchez, R. Casellas.  
 **Conference:** International Conference on Optical Network Design and Modelling (ONDM'25), May 2025.  
-
+**DOI:** <a href="https://doi.org/10.23919/ONDM65745.2025.11029369" target="_blank" rel="noopener noreferrer">10.23919/ONDM65745.2025.11029369</a>
 
 ## Abstract
 
