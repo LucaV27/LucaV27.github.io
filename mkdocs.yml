@@ -1,8 +1,8 @@
 site_name: Luca Vettori
 theme:
   name: material
-  favicon: images/favicon2.png
-  logo: images/favicon2.png
+  favicon: images/favicon3.png
+  logo: images/favicon3.png
   features:
     - navigation.tabs
   palette:
