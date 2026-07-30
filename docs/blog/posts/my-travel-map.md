@@ -32,7 +32,7 @@ Below is an interactive map of the conferences I've attended (since 2025).
         { lat: 37.7841, lon: -122.4008, name: 'OFC 2025, <br> San Francisco, USA' },
         // { lat: 40.7128, lon: -74.0060, name: 'New York, USA' },        
         { lat: 41.3887, lon: 2.1122, name: 'ICTON 2025, <br> Barcelona, Spain' },
-        { lat: 34.0404, lon: -118.2696, name: 'OFC 2026, <br> Los Angeles, USA' }
+        { lat: 34.0404, lon: -118.2696, name: 'OFC 2026, <br> Los Angeles, USA' },
         { lat: 50.0998, lon: 14.3896, name: 'ICTON 2026, <br> Prague, Czech Republic' }
     ];
 
