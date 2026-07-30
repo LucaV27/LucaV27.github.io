@@ -1,5 +1,5 @@
 ---
-title: My Travel Map
+title: My Conferences Map (since 2025)
 date: 2024-08-25
 slug: my-travel-map
 description: >
@@ -9,7 +9,7 @@ categories:
 ---
 # My Travel Map
 
-Below is an interactive map of all the places I've visited.
+Below is an interactive map of the conferences I've attended (since 2025).
 
 <div id="map-container" style="position: relative; width: 100%; height: 600px; overflow: hidden;">
    <div id="map" style="height: 100%; width: 100%;"></div>
@@ -28,10 +28,12 @@ Below is an interactive map of all the places I've visited.
     }).addTo(map);
 
     // Add markers for places you've visited
-    var places = [
-        { lat: 48.8566, lon: 2.3522, name: 'Paris, <br> France' },
-        // { lat: 40.7128, lon: -74.0060, name: 'New York, USA' },
-        { lat: 35.6895, lon: 139.6917, name: 'Tokyo, Japan' }
+    var places = [        
+        { lat: 37.7841, lon: -122.4008, name: 'OFC 2025, <br> San Francisco, USA' },
+        // { lat: 40.7128, lon: -74.0060, name: 'New York, USA' },        
+        { lat: 41.3887, lon: 2.1122, name: 'ICTON 2025, <br> Barcelona, Spain' },
+        { lat: 34.0404, lon: -118.2696, name: 'OFC 2026, <br> Los Angeles, USA' }
+        { lat: 50.0998, lon: 14.3896, name: 'ICTON 2026, <br> Prague, Czech Republic' }
     ];
 
     places.forEach(function(place) {
