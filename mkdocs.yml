@@ -1,8 +1,8 @@
 site_name: Luca Vettori
 theme:
   name: material
-  favicon: images/favicon3.png
-  logo: images/favicon3.png
+  favicon: images/favicon2.png
+  logo: images/favicon2.png
   features:
     - navigation.tabs
   palette:
@@ -17,6 +17,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/gallery.js
 extra:
   social:
     - icon: fontawesome/brands/x-twitter
@@ -40,5 +44,5 @@ nav:
   - Blog:
     - blog/index.md
   - Contact: contact.md
-copyright: Copyright © 2025 Luca Vettori
+copyright: Copyright © 2026 Luca Vettori
 

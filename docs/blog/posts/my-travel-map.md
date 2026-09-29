@@ -20,7 +20,7 @@ Below is an interactive map of the conferences I've attended (since 2025).
 
 <script>
     // Initialize the map and set its view
-    var map = L.map('map').setView([20, 0], 2);  // Centered on the world with zoom level 2
+    var map = L.map('map').setView([15.2574, -38.0879], 2);  // Centered on the world with zoom level 2
 
     // Add a base layer (OpenStreetMap tiles)
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -33,7 +33,8 @@ Below is an interactive map of the conferences I've attended (since 2025).
         // { lat: 40.7128, lon: -74.0060, name: 'New York, USA' },        
         { lat: 41.3887, lon: 2.1122, name: 'ICTON 2025 <br> Barcelona, Spain' },
         { lat: 34.0404, lon: -118.2696, name: 'OFC 2026 <br> Los Angeles, USA' },
-        { lat: 50.0998, lon: 14.3896, name: 'ICTON 2026 <br> Prague, Czech Republic' }
+        { lat: 50.0998, lon: 14.3896, name: 'ICTON 2026 <br> Prague, Czech Republic' },
+        { lat: 36.7054, lon: -4.4595, name: 'ECOC 2026 <br> Málaga, Spain'}
     ];
 
     places.forEach(function(place) {
