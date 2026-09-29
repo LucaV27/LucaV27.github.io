@@ -8,5 +8,6 @@
 ## Abstract
 
 Novel networking paradigms are enabling the introduction of innovative vertical use cases and new business relations in the B5G/6G mobile ecosystem. For instance, a use case may require the coordination of domains owned by different operators to provide service continuity and keep offering a vertical network service (NS) in similar conditions after a cross-border situation. This demonstration presents a procedure to perform a proactive service relocation in such a multi-administrative domain scenario considering an automotive use case. This demonstration proposes a cloud-native solution combining multiple enablers to manage the life-cycle of virtualised automotive NSs. During run-time, and upon registration, an AI/ML-based enabler decides proactively on the service relocation moment based on the collected vehicle’s positions and triggers an Integration Fabric enabler following ETSI ZSM guidelines to start a new instance of such automotive NS at the associated ETSI NFV management and orchestration stack present in the neighbouring administrative domain.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

@@ -8,5 +8,6 @@
 ## Abstract
 
 This demonstration validates autonomous operations of an optical SDN controller to deliver QoT-enabled optical connectivity services, leveraging open control interfaces, real-time telemetry, and effective recovery strategies in a disaggregated, multi-vendor optical transport network.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

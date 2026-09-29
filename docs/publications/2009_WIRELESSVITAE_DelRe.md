@@ -7,5 +7,6 @@
 ## Abstract
 
 In this paper we present a prototype of NAV/COM devices for Emergency Situations based on the Software Defined Radio (SDR) technology. More specifically this integrated terminal will be composed of two modules, the Localization and Communication Components, running on the same machine and connected each other via TCP/IP protocol. Both of them, then, will be interfaced by their own front-ends, so providing the navigation and communication services.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

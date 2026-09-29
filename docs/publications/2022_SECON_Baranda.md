@@ -9,5 +9,6 @@
 ## Abstract
 
 Beyond 5G networks demand the transition from automated to autonomous network management to decrease human intervention and improve the end-to-end network efficiency. ETSI Zero-Touch Network and Service Management (ZSM) group proposes a service-based architecture to achieve this end. One integral element of such architecture is the Integration Fabric (IF). This demonstration proposes and shows an architecture for the IF element, which enables inter-administrative domain orchestration operations in multiple management domains under the control of different service providers thought up for crossborder vehicular scenarios. These management domains are constituted by a standard ETSI NFV-based Management and Orchestration stack, hence we also demonstrate integration of original NFV work with those proposed by the ZSM architecture.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

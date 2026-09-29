@@ -8,5 +8,6 @@
 ## Abstract
 
 One of the key challenges in developing 5G/6G is to offer improved vertical service support providing enlarged service flexibility, coverage and connectivity while enhancing the business relations among different stakeholders. To address this challenge, Network Service Federation (NSF) is a required feature to enable the deployment and the management of vertical services that may span multiple provider domains owned by different operators and/or service providers. In this demonstration, we show our proposed NSF solution to dynamically deploy an eHealth network service across multiple provider domains at different locations.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

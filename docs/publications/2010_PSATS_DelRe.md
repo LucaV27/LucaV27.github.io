@@ -7,5 +7,6 @@
 ## Abstract
 
 In the following lines we introduce a Software Defined Radio prototype terminal for Emergency Situations. More specifically this integrated terminal will have NAV/COM functions and so it will be composed by two modules: the Localization and Communication Components, running on the same machine and connected each other via TCP/IP protocol. The Localization component will have to find out the terminal position itself and the Communication component will have to communicate it to other terminals. Both components of this prototype, thus, will be interfaced by their own front-ends, so providing the navigation and communication services.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

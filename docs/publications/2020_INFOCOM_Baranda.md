@@ -8,5 +8,6 @@
 ## Abstract
 
 This demonstration shows how the 5G-TRANSFORMER platform, and more specifically the vertical slicer, is capable of arbitrating vertical services. In this context, arbitration refers to handling the various services of a given vertical customer according to their SLA requirements, service priorities, and resource budget available to the vertical. In this demo, a low priority video service of the automotive vertical is terminated when a high-priority intersection collision avoidance service needs to be instantiated and there are not enough resources allowing all services to be run in parallel. All these services are deployed with the help of the 5G-TRANSFORMER platform in a multi-PoP scenario, with PoPs in Barcelona (Spain), Turin (Italy), and Pisa (Italy), featuring a high variety of transport and computing technologies.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

@@ -7,5 +7,6 @@
 ## Abstract
 
 Effective zero-touch management and orchestration (ZSM&O) is crucial for scaling network slicing, particularly transitioning toward Beyond 5G (B5G) and 6G networks. This paper empirically validates the network slicing framework developed under the European Union Horizon 2020 MonB5G project. Building on three years of academia-industry collaboration, MonB5G introduces a flexible slicing model featuring umbrella slices that orchestrate modular, specialized slices across multi-domain environments to address next-generation service demands. For the first time, we evaluate its practicality in a 5G cloud-native testbed through a virtual reality (VR) streaming use case, supported by solutions such as federated learning-based CPU forecasting, anomaly detection, and deep reinforcement learning (DRL) for radio access network (RAN) optimization. The paper offers insights from technically demanding experimental tests and highlights challenges and development paths for managing next-generation mobile networks.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_journals.md)

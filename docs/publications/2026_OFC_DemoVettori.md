@@ -8,5 +8,6 @@
 ## Abstract
 
 Telemetry is foundational for multi-layer SDN automation operations enabling real-time state awareness. This demonstration showcases a hierarchical controller exploiting cross-domain telemetry data to autonomously trigger optical-layer capacity upgrades and resolve congestion, ensuring service assurance.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)

@@ -7,5 +7,6 @@
 ## Abstract
 
 Within the 3rd Generation partnership project (3Gpp) the LTE standard is currently being defined aiming at providing rates up to 300 Mb/s in downlink. In this paper, main alternative strategies which have been proposed for the Downlink air interface are compared by taking into account different modulation formats and transmit diversity schemes. Moreover, we also consider the modulation and coding tecniques which have been previously used in the WiMAX system.
+{ style="text-align: justify" }
 
 [⬅ Back to Publications](index_conferences.md)
