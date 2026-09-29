@@ -2,6 +2,8 @@
 
 Here are the complete list of works:
 
+- [Toward next-generation scalable, high-capacity, and programmable MBoSDM optical networks](2026_JOCN_Nadal.md)
+- [Unified Control of MultiBand over SDM Optical Networks based on OpenROADM device models](2026_JOCN_Casellas.md)
 - [Empowering Beyond 5G Networks: An Experimental Assessment of Zero-Touch Management and Orchestration (ACCESS 2024)](2024_ACCESS_Barrachina.md)
 - [A Novel Approach for Scalable and Sustainable 6G Networks (OJCOMS 2024)](2024_OJCOMS_blanco.md)
 - [Resource Abstractions in NFV Management and Orchestration: Experimental Evaluation (TNSM 2023)](2023_TNSM_Martinez.md)
