@@ -2,6 +2,8 @@
 
 Here are the complete list of works:
 
+- [Implementation of a Hierarchical SDN Control Workflow for Autonomous Capacity Scaling in Multi-Layer Networks (ICTON 2026)](2026_ICTON_Vettori.md)
+- [Low-level Integration with SDN Control Plane, and Experimental Validation of the Programmable MBoSDM Node Prototype (ICTON 2026)](2026_ICTON_Vilchez.md)
 - [Autonomous Capacity Scaling in Optical Metro Access Networks via Hierarchical SDN Control: A Demonstration (OFC 2026)](2026_OFC_DemoVettori.md)
 - [Automated Service Adaptation across Optical Access and Metro Segments via Hierarchical SDN Control (ICTON 2025)](2025_ICTON_DemoVettori.md)
 - [6G Monitoring Agents in Autonomous Disaggregated Optical Transport Network (ICTON 2025)](2025_ICTON_VettoriTelcaria.md)
